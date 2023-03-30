@@ -166,3 +166,136 @@
     margin-left: -1em;
     color: rgb(255, 75, 85);
   }
+.icon-lock:before {
+  content: "\e928";
+}
+.icon-mail:before {
+  content: "\e929";
+}
+.icon-phone:before {
+  content: "\e92a";
+}
+.icon-analytics:before {
+  content: "\e900";
+}
+.icon-arrow-left:before {
+  content: "\e901";
+}
+.icon-arrow-left-2:before {
+  content: "\e902";
+
+}
+.icon-arrow-right:before {
+  content: "\e903";
+}
+.icon-arrow-right-2:before {
+  content: "\e904";
+
+}
+.icon-arrow-up-2:before {
+  content: "\e905";
+
+}
+.icon-backup:before {
+  content: "\e906";
+}
+.icon-clock:before {
+  content: "\e907";
+
+}
+.icon-cloud:before {
+  content: "\e908";
+}
+.icon-compressed:before {
+  content: "\e909";
+}
+.icon-controls:before {
+  content: "\e90a";
+}
+.icon-dictionary:before {
+  content: "\e90b";
+}
+.icon-download:before {
+  content: "\e90c";
+}
+.icon-error:before {
+  content: "\e90d";
+}
+.icon-file:before {
+  content: "\e90e";
+}
+.icon-funnel:before {
+  content: "\e90f";
+}
+.icon-hosting:before {
+  content: "\e910";
+}
+.icon-management:before {
+  content: "\e911";
+}
+.icon-map:before {
+  content: "\e912";
+}
+.icon-network:before {
+  content: "\e913";
+}
+.icon-network-2:before {
+  content: "\e914";
+}
+.icon-optimization:before {
+  content: "\e915";
+}
+.icon-presentation:before {
+  content: "\e916";
+}
+.icon-Primary:before {
+  content: "\e917";
+}
+.icon-programming:before {
+  content: "\e918";
+}
+.icon-protection:before {
+  content: "\e919";
+}
+.icon-query:before {
+  content: "\e91a";
+}
+.icon-quote:before {
+  content: "\e91b";
+}
+.icon-relational:before {
+  content: "\e91c";
+}
+.icon-search:before {
+  content: "\e91d";
+}
+.icon-searching:before {
+  content: "\e91e";
+}
+.icon-server:before {
+  content: "\e91f";
+}
+.icon-server-2:before {
+  content: "\e920";
+}
+.icon-software:before {
+  content: "\e921";
+}
+.icon-statistic:before {
+  content: "\e922";
+}
+.icon-technician:before {
+  content: "\e923";
+}
+.icon-transaction:before {
+  content: "\e924";
+}
+.icon-upload:before {
+  content: "\e925";
+}
+.icon-user:before {
+  content: "\e926";
+}
+.icon-website:before {
+  content: "\e927";
+}
